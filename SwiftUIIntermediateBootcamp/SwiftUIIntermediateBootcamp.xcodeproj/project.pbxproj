@@ -24,6 +24,13 @@
 		0D44622A2D204BE700CE5772 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4462272D204BE700CE5772 /* badum.mp3 */; };
 		0D44622B2D204BE700CE5772 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D4462282D204BE700CE5772 /* tada.mp3 */; };
 		0D44622D2D204C7B00CE5772 /* HapticManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D44622C2D204C7B00CE5772 /* HapticManagerBootcamp.swift */; };
+		0D6644CA2D215CF9004CF233 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6644C92D215CF9004CF233 /* LocalNotificationBootcamp.swift */; };
+		0D6644CC2D2162B2004CF233 /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6644CB2D2162B2004CF233 /* ArraysBootcamp.swift */; };
+		0D6644CE2D2166D7004CF233 /* BackgroundThreadViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6644CD2D2166D7004CF233 /* BackgroundThreadViewModel.swift */; };
+		0D6644D02D217457004CF233 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6644CF2D217457004CF233 /* WeakSelfBootcamp.swift */; };
+		0D6644D22D2175C1004CF233 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6644D12D2175C1004CF233 /* TypealiasBootcamp.swift */; };
+		0D6644D42D217850004CF233 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6644D32D217850004CF233 /* EscapingBootcamp.swift */; };
+		0D6644D62D217FC1004CF233 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6644D52D217FC1004CF233 /* DownloadWithCombine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +52,13 @@
 		0D4462272D204BE700CE5772 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		0D4462282D204BE700CE5772 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		0D44622C2D204C7B00CE5772 /* HapticManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManagerBootcamp.swift; sourceTree = "<group>"; };
+		0D6644C92D215CF9004CF233 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
+		0D6644CB2D2162B2004CF233 /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
+		0D6644CD2D2166D7004CF233 /* BackgroundThreadViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadViewModel.swift; sourceTree = "<group>"; };
+		0D6644CF2D217457004CF233 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
+		0D6644D12D2175C1004CF233 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
+		0D6644D32D217850004CF233 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
+		0D6644D52D217FC1004CF233 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +105,13 @@
 				0D4462292D204BE700CE5772 /* Sounds */,
 				0D4462252D204BB400CE5772 /* SoundsBootcamp.swift */,
 				0D44622C2D204C7B00CE5772 /* HapticManagerBootcamp.swift */,
+				0D6644C92D215CF9004CF233 /* LocalNotificationBootcamp.swift */,
+				0D6644CB2D2162B2004CF233 /* ArraysBootcamp.swift */,
+				0D6644CD2D2166D7004CF233 /* BackgroundThreadViewModel.swift */,
+				0D6644CF2D217457004CF233 /* WeakSelfBootcamp.swift */,
+				0D6644D12D2175C1004CF233 /* TypealiasBootcamp.swift */,
+				0D6644D32D217850004CF233 /* EscapingBootcamp.swift */,
+				0D6644D52D217FC1004CF233 /* DownloadWithCombine.swift */,
 				0D4462072D1D97E000CE5772 /* Assets.xcassets */,
 				0D4462092D1D97E000CE5772 /* Preview Content */,
 			);
@@ -187,17 +208,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D4462262D204BB400CE5772 /* SoundsBootcamp.swift in Sources */,
+				0D6644D62D217FC1004CF233 /* DownloadWithCombine.swift in Sources */,
 				0D44621A2D1FF48300CE5772 /* DragGestureBootcamp2.swift in Sources */,
+				0D6644CC2D2162B2004CF233 /* ArraysBootcamp.swift in Sources */,
 				0D4462242D20478800CE5772 /* MaskBootcamp.swift in Sources */,
 				0D4462182D1E808800CE5772 /* DragGestureBootcamp.swift in Sources */,
 				0D4462062D1D97DE00CE5772 /* ContentView.swift in Sources */,
+				0D6644CA2D215CF9004CF233 /* LocalNotificationBootcamp.swift in Sources */,
 				0D44621C2D20225200CE5772 /* ScrollViewReaderBootcamp.swift in Sources */,
 				0D44622D2D204C7B00CE5772 /* HapticManagerBootcamp.swift in Sources */,
+				0D6644D02D217457004CF233 /* WeakSelfBootcamp.swift in Sources */,
 				0D4462222D2034A400CE5772 /* MultipleSheetsBootcamp.swift in Sources */,
 				0D44621E2D202B5600CE5772 /* GeoMetryReaderBootcamp.swift in Sources */,
 				0D4462042D1D97DE00CE5772 /* SwiftUIIntermediateBootcampApp.swift in Sources */,
 				0D4462122D1E663300CE5772 /* LongPressGestureBootcamp.swift in Sources */,
 				0D4462142D1E724C00CE5772 /* MagnifyingGestureBootcamp.swift in Sources */,
+				0D6644D22D2175C1004CF233 /* TypealiasBootcamp.swift in Sources */,
+				0D6644D42D217850004CF233 /* EscapingBootcamp.swift in Sources */,
+				0D6644CE2D2166D7004CF233 /* BackgroundThreadViewModel.swift in Sources */,
 				0D4462162D1E7E8300CE5772 /* RotationGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
